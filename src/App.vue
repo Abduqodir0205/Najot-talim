@@ -19,7 +19,7 @@ export default {
     }
   },
   components: {
-    Sec2
+    Sec2,
   }
 
 }
