@@ -1,7 +1,4 @@
-.header__top{
-    background-color: #000;
-    width: 100%;
-    height: 48px;
+
 }
 .text__top{
     display: flex;
@@ -154,35 +151,6 @@
                 }}
             }
  }
- .header__bottom__right__left__top__img{
-    margin-left: 64px;
-    }
-            .header__bottom__right__left__h1{
-                font-family: 'Inter';
-                font-style: normal;
-                font-weight: 600;
-                font-size: 48px;
-                line-height: 60px;
-                letter-spacing: 0.04em;
-                color: #FAFAFA;
-                margin-left: 64px;
-                margin-top: 20px;
-            }
-            .header__bottom__right__bottom{
-                display: flex;
-                align-items: center;
-                margin-left: 64px;
-                margin-top: 22px;
-                .header__bottom__right__bottom__p{
-                    font-family: 'Poppins';
-                    font-style: normal;
-                    font-weight: 500;
-                    font-size: 16px;
-                    line-height: 24px;
-                    text-align: center;
-                    color: #FAFAFA;
-                    margin-right: 8px;
-                }
 
             }
         .header__bottom__right__right{
