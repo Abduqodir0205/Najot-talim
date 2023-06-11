@@ -6,10 +6,19 @@
     --doted-red: #FB1314;
     --doted-yellow: #EEFF61;
     --doted-black: #000000;
+    --color-white:#FAFAFA;
+    --color-items:#F5F5F5
 }
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 .container {
     width: 1170px;
     margin: 0 auto;
 }
+
+
+
