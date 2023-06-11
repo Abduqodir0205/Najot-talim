@@ -1,5 +1,6 @@
 <template>
   <div class="home__page">
+<<<<<<< HEAD
 
     <h1>qwerty</h1>
     <Sec2/>
@@ -21,11 +22,33 @@ export default{
     Sec2,
   }
 
+=======
+      <Header/>
+  </div>
+</template>
+
+<script>
+import Header from '../src/components/home-page/header.vue'
+
+export default{
+  data(){
+    return{
+
+    }
+  },
+  components:{
+    Header
+  }
+>>>>>>> 58a8e31f169c585c9ad9daf465a2bd1f54be9151
 }
 
 </script>
 
 <style>
+<<<<<<< HEAD
 @import url(./sass/style.scss);
 
+=======
+  @import './sass/style.scss';
+>>>>>>> 58a8e31f169c585c9ad9daf465a2bd1f54be9151
 </style>
