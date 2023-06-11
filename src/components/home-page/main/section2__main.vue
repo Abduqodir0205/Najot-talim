@@ -54,6 +54,6 @@ export default {
 }
 </script>
 <style>
-@import '/Users/abdumalikraxmiddinov/Desktop/Najot-talim/src/sass/style.scss';
-@import '/Users/abdumalikraxmiddinov/Desktop/Najot-talim/src/sass/global.scss'
+@import '/Najot-talim/src/sass/global.scss';
+@import '/Najot-talim/src/sass/style.scss';
 </style>
