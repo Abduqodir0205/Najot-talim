@@ -3,9 +3,9 @@
     <div class="header__top">
        <div class="container">
             <div class="text__top">
-                <h1>Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!
+                <h1 class="h1">Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!
                 <span>ShopNow</span></h1>
-                <p>English</p>
+                <p class="p">English</p>
                 <img src="./images/header__photos/DropDown (2).png" alt="">
             </div>
        </div>
@@ -84,5 +84,6 @@
 </script>
 
 <style>
-    
+    @import '/Najot-talim/src/sass/global.scss';
+    @import '/Najot-talim/src/sass/style.scss';
 </style>
