@@ -5,7 +5,6 @@
 </template>
 
 <script>
-
 export default{
   data(){
     return{
@@ -14,3 +13,11 @@ export default{
   },
   components:{
 
+  }
+}
+</script>
+
+<style>
+  @import '../src/sass/style.scss';
+  @import '../src/sass/global.scss'
+</style>
